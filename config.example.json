@@ -1,0 +1,35 @@
+{
+  "token": "TU_TOKEN_AQUI",
+  "guildId": "ID_DE_TU_SERVIDOR",
+  "adminChannelId": "ID_CANAL_ADMIN",
+  "logChannelId": "ID_CANAL_LOGS",
+  "approvedRoleId": "ID_ROL_APROBADO",
+  "cooldownHours": 24,
+  
+  "serverName": "Mi Servidor Roleplay",
+  "serverIcon": "https://i.imgur.com/tu-logo.png",
+  "mentionRole": null,
+  
+  "colors": {
+    "primary": "#5865F2",
+    "success": "#00FF00",
+    "error": "#FF0000",
+    "warning": "#FFA500",
+    "pending": "#FFD700",
+    "question": "#00D9FF"
+  },
+  
+  "emojis": {
+    "welcome": "👋",
+    "start": "📩",
+    "success": "✅",
+    "error": "❌",
+    "approve": "🎉",
+    "reject": "🚫"
+  },
+  
+  "buttonLabels": {
+    "approve": "Aprobar Whitelist",
+    "reject": "Rechazar Whitelist"
+  }
+}

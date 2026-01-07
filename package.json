@@ -1,0 +1,36 @@
+{
+  "name": "discord-whitelist-bot",
+  "version": "1.0.0",
+  "description": "Bot de Discord completamente personalizable para sistemas de whitelist",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "whitelist",
+    "roleplay",
+    "formulario"
+  ],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.9.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Laanisss/Bot-discord-Wh-Formulario.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Laanisss/Bot-discord-Wh-Formulario/issues"
+  },
+  "homepage": "https://github.com/Laanisss/Bot-discord-Wh-Formulario"
+}
