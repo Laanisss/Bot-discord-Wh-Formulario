@@ -37,7 +37,7 @@ Bot de Discord completamente personalizable para sistemas de whitelist con formu
 
 1. **Clona el repositorio**
 ```bash
-git clone (https://github.com/Laanisss/Bot-discord-Wh-Formulario.git)
+git clone https://github.com/Laanisss/Bot-discord-Wh-Formulario.git
 cd discord-whitelist-bot
 ```
 
