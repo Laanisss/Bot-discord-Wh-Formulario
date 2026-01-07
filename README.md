@@ -288,9 +288,9 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 
 ¿Necesitas ayuda? 
 
-- 🐛 [Reporta un bug](https://github.com/TU_USUARIO/discord-whitelist-bot/issues)
-- 💡 [Sugiere una función](https://github.com/TU_USUARIO/discord-whitelist-bot/issues)
-- 📧 Contacto: tu_email@ejemplo.com
+- 🐛 [Reporta un bug](https://github.com/Laanisss/Bot-discord-Wh-Formulario/issues)
+- 💡 [Sugiere una función](https://github.com/Laanisss/Bot-discord-Wh-Formulario/issues)
+- 📧 Contacto: laaniiss1@gmail.com
 
 ## ⭐ Agradecimientos
 
